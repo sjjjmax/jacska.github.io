@@ -1,8 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: "" # 如果站点在根目录部署，保持为空
+url: "https://jascka.se" # 更新为您的域名
 
 #-------------------------------
 # Build Settings
@@ -12,9 +11,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 8
+paginate: 8 # 每页显示 8 篇文章
 paginate_path: "/blog/page/:num"
-
 
 #-------------------------------
 # Collections
@@ -51,6 +49,7 @@ defaults:
     values:
       layout: "project"
 
+# SCSS Configuration
 sass:
   sass_dir: _sass
   style: compressed

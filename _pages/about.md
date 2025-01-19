@@ -1,23 +1,27 @@
 ---
 layout: page
-title: About <em>Me</em>
+title: About <em>Us</em>
 permalink: /about/
 image: '/images/100.jpg'
 ---
-Hello there! Welcome to my corner of the digital world. My name is Kevin, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people’s lives. Beyond just aesthetics, I am deeply committed to designing for impact. Whether it’s improving daily routines, enhancing productivity, or fostering connections.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-> <cite>Steve Jobs</cite>
+Welcome to **Jacska AB**! We are a Sweden-based company specializing in consulting, community operations, and e-commerce solutions. Our mission is to empower businesses with innovative strategies and effective solutions, enabling them to thrive in today's dynamic market.
 
-Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
+### Who We Are
+Founded in 2025, **Jacska AB** operates under the guidance of our CEO, **Monica**. With a strong commitment to creativity, collaboration, and customer-centricity, we work closely with our clients to achieve outstanding results and build lasting partnerships.
 
-I am a firm believer in giving back to the design community that has nurtured and supported me. I volunteer my time to mentor aspiring designers, participate in design forums, and contribute to open-source projects. Sharing knowledge and collaborating with fellow designers brings a sense of fulfillment and camaraderie.
+### What We Do
+- **Consulting**: Offering expert advice to help businesses overcome challenges and seize new opportunities.
+- **Community Operations**: Managing and fostering vibrant communities that drive engagement and growth.
+- **E-commerce**: Delivering end-to-end solutions for online businesses, from setup to optimization.
 
-![Friends](/images/102.jpg)
+> "Success is not just about achieving goals but creating value and empowering others along the way."
+
+### Why Choose Us
+At **Jacska AB**, we prioritize understanding our clients' needs and tailoring our services to meet them. With a dedicated team of professionals, we are committed to delivering excellence, innovation, and integrity in every project we undertake.
+
+### Get in Touch
+Interested in collaborating with us? Visit our [Contact](/contact/) page or email us at [sophmonica@gmail.com](mailto:sophmonica@gmail.com). We look forward to working with you!
+
+![Jacska AB Vision](/images/102.jpg)
 *Photo by [Jessica Felicio](https://unsplash.com/@jekafe) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-woman-standing-between-two-men-CT6G8Mz4grs)*
-
-Design has been an incredible journey of growth and self-discovery for me. I am deeply grateful for every opportunity that has come my way, every challenge that has shaped my skills, and every success that has inspired me to aim higher. With humility and enthusiasm, I look forward to the next chapter in my design adventure.
-
-As a Product Designer, I see design challenges as exciting opportunities to find elegant solutions. I enjoy breaking down complex problems into manageable components, collaborating with cross-functional teams, and iterating through multiple design cycles to arrive at the most effective and user-friendly outcomes.
-
-***
