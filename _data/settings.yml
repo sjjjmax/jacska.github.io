@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: Jacska AB
-logo: "/images/jacska_logo1.png" # 使用公司的 logo
-logo_dark: "/images/jacska_logo1_dark.png" # 暗色模式的 logo（如果一致可重复使用）
+logo: "/images/jacska_logo1.svg" # 使用公司的 logo
+logo_dark: "/images/jacska_logo1_dark.svg" # 暗色模式的 logo（如果一致可重复使用）
 description: Jacska AB specializes in consulting, community operations, and e-commerce. Empowering businesses with innovative solutions and seamless execution.
 url: "https://jascka.se"
 color_scheme: auto # 自动模式，用户可切换明暗模式
