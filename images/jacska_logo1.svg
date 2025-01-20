@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="161.51245mm"
-   height="27.000029mm"
-   viewBox="0 0 161.51245 27.000029"
+   width="118.00001mm"
+   height="19.726055mm"
+   viewBox="0 0 118.00001 19.726055"
    version="1.1"
    id="svg1"
    sodipodi:docname="jacska_logo1.svg"
@@ -44,18 +44,18 @@
   </defs>
   <text
      xml:space="preserve"
-     transform="matrix(0.26458333,0,0,0.26458333,-0.00733434,-0.05783382)"
+     transform="matrix(0.26458333,0,0,0.26458333,-0.00733355,-0.05783217)"
      id="text9"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;opacity:1;fill:#ff00ff;fill-opacity:1" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9538px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff00ff;fill-opacity:1;stroke-width:0.416184"
-     x="81.565842"
-     y="26.570837"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.19px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff00ff;fill-opacity:1;stroke-width:0.304061"
+     x="59.591499"
+     y="19.412491"
      id="text10"><tspan
        sodipodi:role="line"
        id="tspan10"
-       style="fill:#f2f2f2;stroke-width:0.416184"
-       x="81.565842"
-       y="26.570837">Jacska AB</tspan></text>
+       style="fill:#f2f2f2;stroke-width:0.304061"
+       x="59.591499"
+       y="19.412491">Jacska AB</tspan></text>
 </svg>
