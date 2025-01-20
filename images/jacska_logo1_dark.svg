@@ -1,1 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="243px" height="27px" viewBox="0 0 243 27" style="background: transparent;"><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Jacska AB</text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.51245mm"
+   height="27.000029mm"
+   viewBox="0 0 161.51245 27.000029"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Jacska_AB_white_adjusted.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1174926"
+     inkscape:cx="281.43363"
+     inkscape:cy="-50.559619"
+     inkscape:window-width="2201"
+     inkscape:window-height="1679"
+     inkscape:window-x="1536"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
+     showgrid="true" />
+  <defs
+     id="defs1">
+    <rect
+       x="34.899559"
+       y="130.20221"
+       width="699.3335"
+       height="176.73495"
+       id="rect9" />
+  </defs>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.26458333,0,0,0.26458333,-0.00733434,-0.05783382)"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);opacity:1;fill:#ff00ff;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9538px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ff00ff;fill-opacity:1;stroke-width:0.416184"
+     x="81.565842"
+     y="26.570837"
+     id="text10"><tspan
+       sodipodi:role="line"
+       id="tspan10"
+       style="fill:#1a1a1a;stroke-width:0.416184"
+       x="81.565842"
+       y="26.570837">Jacska AB</tspan></text>
+</svg>
